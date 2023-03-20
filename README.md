@@ -1,2 +1,2 @@
-# django-social-network-
+# django-social-network
 Simple Social Network Website created with Django 
