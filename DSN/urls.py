@@ -19,5 +19,5 @@ from main import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api', views.WomenAPIView.as_view()),
+    path('api', views.TestAPIView.as_view()),
 ]
